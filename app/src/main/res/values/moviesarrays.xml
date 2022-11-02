@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="titles">
+        <item>2001: Una odisea del espacio</item>
+        <item>Encuentros en la tercera fase</item>
+        <item>Joker</item>
+        <item>El padrino: Parte II</item>
+    </array>
+    <array name="directors">
+        <item>Stanley Kubrick</item>
+        <item>Steven Spielberg</item>
+        <item>Todd Phillips</item>
+        <item>Francis Ford Coppola</item>
+    </array>
+    <array name="years">
+        <item>1968</item>
+        <item>1977</item>
+        <item>2019</item>
+        <item>1974</item>
+    </array>
+    <array name="webs">
+        <item>https://www.imdb.com/title/tt0062622/</item>
+        <item>https://www.imdb.com/title/tt0075860/</item>
+        <item>https://www.imdb.com/title/tt7286456/</item>
+        <item>https://www.imdb.com/title/tt0071562/</item>
+    </array>
+    <array name="trailers">
+        <item>https://www.youtube.com/watch?v=Z2UWOeBcsJI</item>
+        <item>https://www.youtube.com/watch?v=dprwIAft16c</item>
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item>
+        <item>https://www.youtube.com/watch?v=KW3YsyFlv1g</item>
+    </array>
+</resources>
